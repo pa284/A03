@@ -10,8 +10,8 @@ PART 1: Directions on Using Webstorm
   7. In **Webstorm**, create a **repository** and then import into version control.
   8. Import a **repository** from **Github**.
   9. Create a **Webstorm** file and choose the html file to edit.
-  10. Add the files to **GIT** and commit the changes.
-  11. Push change to remote **repository** and then the file will be added to **Github**.
+  10. Add the files to **GIT** and **commit** the changes.
+  11. Push change to **remote** **repository** and then the file will be added to **Github**.
   12. Edit the **Github** pages and choose where to publish the URL.
   13. Check to make sure the **Github** page works into a new window.
 
@@ -24,9 +24,9 @@ Part 2: Glossary to Include these Terms in a Bulleted List
   - **Fetch**: A command that tells a local **GIT** to retrieve the latest meta-data information from the original.
   - **GIT**: A version control system that lets you manage and keep track of your source code history. 
   - **Github**: A cloud-based hosting service that lets you manage **GIT** **repositories**.
-  - **Merge**: Takes the independent lines of development created by **GIT** branch an integrate them into a single **branch**.
+  - **Merge**: Takes the independent lines of development created by **GIT** **branch** an integrate them into a single **branch**.
   - **Merge Conflict**: An event that occurs when **GIT** is unable to automatically resolve differences in code between two **commits**.
-  - **Push**: Used to upload local **repository** content to a remote **repository**.
-  - **Pull**: Used to **fetch** anddownload content from a remote **repository** and immediately update the local **repository** to match that content.
+  - **Push**: Used to upload local **repository** content to a **remote** **repository**.
+  - **Pull**: Used to **fetch** and download content from a **remote** **repository** and immediately update the local **repository** to match that content.
   - **Remote**: A common **repository** that all team members use to exchange their changes. 
   - **Repository**: Contains all of your project's files and each file's revision history.
