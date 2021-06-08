@@ -17,15 +17,15 @@ PART 1: Directions on Using Webstorm
 
 Part 2: Glossary to Include these Terms in a Bulleted List
   
-  - **Branch** - 
-  - **Clone** - 
-  - **Commit** - 
-  - **Fetch** - 
-  - **GIT** - 
-  - **Github** - 
-  - **Merge** - 
-  - **Merge Conflict** - 
-  - **Push** - 
-  - **Pull** - 
-  - **Remote** - 
-  - **Repository** - 
+  - **Branch**: A **branch** is essentially is a unique set of code changes with a unique name.
+  - **Clone**: A **GIT** command line utility which is used to target an existing **repository** and create a **clone**.
+  - **Commit**: An individual change to a file.
+  - **Fetch**: A command that tells a local **GIT** to retrieve the latest meta-data information from the original.
+  - **GIT**: A version control system that lets you manage and keep track of your source code history. 
+  - **Github**: A cloud-based hosting service that lets you manage **GIT** **repositories**.
+  - **Merge**: Takes the independent lines of development created by **GIT** branch an integrate them into a single **branch**.
+  - **Merge Conflict**: An event that occurs when **GIT** is unable to automatically resolve differences in code between two **commits**.
+  - **Push**: Used to upload local **repository** content to a remote **repository**.
+  - **Pull**: Used to **fetch** anddownload content from a remote **repository** and immediately update the local **repository** to match that content.
+  - **Remote**: A common **repository** that all team members use to exchange their changes. 
+  - **Repository**: Contains all of your project's files and each file's revision history.
