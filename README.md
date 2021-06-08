@@ -15,6 +15,7 @@ PART 1: Directions on Using Webstorm
   12. Edit the **Github** pages and choose where to publish the URL.
   13. Check to make sure the **Github** page works into a new window.
 
+
 Part 2: Glossary to Include these Terms in a Bulleted List
   
   - **Branch**: A **branch** is essentially is a unique set of code changes with a unique name.
